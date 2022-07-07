@@ -86,47 +86,71 @@ background-color: tomato;
 padding: 10px 18px;
 margin: 0px;
 border-radius: 8px;
-
 color: white;
 font-weight: 700;
 
 }
-.setion{
-    text-align: center;
-    font-size: 20px;
-    font-weight: 700;
-   margin: 20px;
+.section-two{
+    margin-top: 70px;
+ 
 }
 
 .card1{
    width: 350px; 
-   height: 300px;
+   height: 250px;
    border: 1px solid gray;
    text-align: left;
    box-shadow: 8px 8px 16px gray;
    background-color: mistyrose;
-   padding: 15px;
-   border-radius: 10px;
-  
-
-   
-}
-
-.card2{
    padding: 20px;
-   
-   
+   border-radius: 10px;
+   margin-top: 30px;
+  
 
 }
 .fodder{
     width: 50px;
-    display: flex;
    margin: 20px;
 }
 
 
-
-
-
+.control{
+    margin-top: 70px;
+}
+.pen1{
+    width: 350px;
+    height: 250px;
+    border: 1px solid gray;
+    text-align: left;
+    box-shadow: 8px 8px 16px gray;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
     
+}
+.shelter-icom{
+    width: 50px;
+}
+
+.super{
+    margin-top: 70px;
+
+}
+
+.super-man{
+    width: 350px;
+    height: 250px;
+    border: 1px solid gray;
+    text-align: left;
+    box-shadow: 8px 8px 16px gray;
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.super-real{
+    width: 50px;
+}
+
 
