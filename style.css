@@ -152,5 +152,83 @@ font-weight: 700;
 .super-real{
     width: 50px;
 }
+.managment{
+    display: flex;
+    padding: 300px;
+   
 
 
+}
+
+
+#img {
+    width: 12%;
+}
+
+.p-f {
+    display: flex;
+}
+
+.p-1 {
+    width: 800px;
+}
+
+.sec-2 {
+    display: flex;
+    margin-top: 3%;
+
+    background-color: aliceblue;
+
+}
+
+#p4 {
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#tnu {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.em {
+    font-weight: 400;
+    background-color: rgb(115, 148, 177);
+    border: 0px solid;
+    width: 40%;
+    padding: 15px 10px;
+    border-radius: 5px;
+    padding-left: 30%;
+    margin-left: 10%;
+}
+
+.update {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#subs {
+    color: aliceblue;
+    font-weight: 400;
+
+    background-color: rgb(180, 57, 84);
+
+    padding: 15px 25px;
+    border: 0px solid;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.last {
+    background-color: rgba(0, 0, 0, 0.801);
+    color: aliceblue;
+    padding-left: 45%;
+    width: 10px 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
